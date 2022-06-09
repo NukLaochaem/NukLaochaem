@@ -1,20 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is Nuk
+#### I am a front-end developer
+![I am a front-end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NukLaochaem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+:man_student: I graduated as a front-end developer in 2022 from Noroff-school of technology and digital media. 
+:man_technologist: I'm currently studying Back-end to become a full-stack developer
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+Skills: HTML / CSS / JS / REACT /  
 
-<!--
-**NukLaochaem/NukLaochaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
