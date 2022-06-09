@@ -13,6 +13,3 @@
 * CSS
 * JS
 * React
-
-Skills: HTML / CSS / JS / REACT /  
-
