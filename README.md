@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Nuk
+## Hi there 👋 My name is Nuk
 ### I am a front-end developer
 
 #### About 
