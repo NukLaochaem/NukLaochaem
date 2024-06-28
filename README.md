@@ -3,7 +3,7 @@
 
 #### About 
 - :shipit: I graduated as a Front-End Developer in 2022 from Noroff School of Technology and Digital Media
-- :man_technologist: I'm currently studying Back-end to become a full-stack developer
+- :man_technologist: I'm currently studying Back-end
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NukLaochaem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
